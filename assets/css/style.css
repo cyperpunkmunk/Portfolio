@@ -6,11 +6,10 @@
 body{
     background-color:rgb(9, 9, 9);
     font-family: serif;
-    color: aliceblue;
-    background-image:url('assets\css\images\fisrt shot lights0163.bmp');
+    color: rgba(240, 248, 255, 0.789);
     background-image: linear-gradient(
     rgba(0, 0, 0, 0.433) 0%,
-    rgba(255, 255, 255, 0.001) 100%
+    rgba(28, 28, 28, 0.665) 100%
   );
     
 }
@@ -76,7 +75,14 @@ img{
 }
 
 #name{
-    font-size: 70px;
+    font-size: 50px;
+}
+
+section span div p{
+    font-size: 20px;
+}
+b{
+    color:rgba(255, 170, 11, 0.919)
 }
 
 @media screen and (max-width: 992px){
