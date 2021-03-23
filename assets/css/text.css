@@ -11,7 +11,7 @@ body{
     rgba(0, 0, 0, 0.433) 0%,
     rgba(28, 28, 28, 0.665) 100%
   );
-    
+  background-attachment: fixed;
 }
 
 header{

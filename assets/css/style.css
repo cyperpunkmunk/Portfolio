@@ -10,8 +10,9 @@ body{
     background-image: linear-gradient(
     rgba(0, 0, 0, 0.433) 0%,
     rgba(28, 28, 28, 0.665) 100%
-  );
     
+  );
+    background-attachment: fixed;
 }
 
 header{
@@ -79,7 +80,7 @@ img{
 }
 
 section span div p{
-    font-size: 20px;
+    font-size: 30px;
 }
 b{
     color:rgba(255, 247, 11, 0.919)
@@ -93,6 +94,7 @@ b{
     
     section span div p{
         text-align: center;
+        font-size: 21px;
     }
 
 
