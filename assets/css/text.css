@@ -46,6 +46,8 @@ a:hover{
 section{
     margin:var(--pagemag);
     display: flex;
+    padding: 15px;
+    
 
 }
 
@@ -83,7 +85,7 @@ section span div p{
     padding: 5px;
 }
 b{
-    color:rgba(255, 170, 11, 0.919)
+    color:rgba(255, 129, 11, 0.919)
 }
 
 @media screen and (max-width: 992px){
@@ -95,6 +97,7 @@ b{
     section span div p{
         text-align: center;
         font-size: 20px;
+        padding: 10px
     }
 
 

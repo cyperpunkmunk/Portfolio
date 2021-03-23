@@ -82,7 +82,7 @@ section span div p{
     font-size: 20px;
 }
 b{
-    color:rgba(255, 170, 11, 0.919)
+    color:rgba(255, 247, 11, 0.919)
 }
 
 @media screen and (max-width: 992px){
@@ -102,11 +102,11 @@ b{
         
     }
     #name{
-        font-size: 40px;
+        font-size: 50px;
         text-align: center;
     }
     .text-left{
-        padding: 5%;
+        font-size: 35px;
     }
     img{
         width:70%;
