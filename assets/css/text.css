@@ -5,7 +5,7 @@
 
 body{
     background-color:rgb(9, 9, 9);
-    font-family: serif;
+   ;
     color: rgba(240, 248, 255, 0.789);
     background-image: linear-gradient(
     rgba(0, 0, 0, 0.433) 0%,
@@ -39,9 +39,10 @@ a {
 }
 
 a:hover{
-    text-shadow: 0 1px 10px #ffffff; 
+    text-shadow: 0 1px 10px rgba(255, 129, 11, 0.919); 
     border-radius: 4px;
     transition: all 0.3s ease-in-out;
+    color:rgba(255, 129, 11, 0.919)
 }
 section{
     margin:var(--pagemag);
