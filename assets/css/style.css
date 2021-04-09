@@ -40,10 +40,10 @@ a {
 }
 
 a:hover{
-    text-shadow: 0 1px 10px rgba(255, 129, 11, 0.919); 
+    text-shadow: 0 1px 10px rgba(11, 255, 121, 0.919); 
     border-radius: 4px;
     transition: all 0.3s ease-in-out;
-    color:rgba(255, 129, 11, 0.919)
+    color:rgba(11, 255, 121, 0.919)
     
 }
 section{
