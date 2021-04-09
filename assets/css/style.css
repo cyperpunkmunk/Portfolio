@@ -15,7 +15,7 @@ body{
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat; background-size: cover;
-    background-image: url(././images/samp.gif);
+    background-image: url(../css/images/samp.gif);
     background-attachment: fixed;
 }
 
