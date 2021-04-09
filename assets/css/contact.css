@@ -94,7 +94,15 @@ b{
 
 @media screen and (max-width: 992px){
    
-   
+    .mainDiv p{
+        font-size: 30px;
+        padding:20px
+    }
+
+    .mainDiv {
+        margin-top: 40%;
+    }
+    
 
 }
 
