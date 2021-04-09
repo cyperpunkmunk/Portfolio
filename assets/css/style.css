@@ -6,12 +6,16 @@
 body{
     background-color:rgb(9, 9, 9);
    
-    color: rgba(240, 248, 255, 0.789);
+    color: rgb(255, 255, 255);
     background-image: linear-gradient(
     rgba(0, 0, 0, 0.433) 0%,
     rgba(28, 28, 28, 0.665) 100%
     
   );
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat; background-size: cover;
+    background-image: url(././images/samp.gif);
     background-attachment: fixed;
 }
 
