@@ -12,10 +12,7 @@ body{
     rgba(28, 28, 28, 0.665) 100%
   );
     
-    background-position: center center;
-    background-attachment: fixed;
-    background-repeat: no-repeat; background-size: cover;
-    background-image: url(././images/samp.gif);
+    
     background-attachment: fixed;
 }
 .reveal section img {
